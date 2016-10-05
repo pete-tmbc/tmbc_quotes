@@ -2,7 +2,6 @@
 
 Adds a random quote to a wait screen when a form is submitted. We use this together with a wait spinner.
 
-QA
 Q: Why?
 A: I thought it would be nice to give people to something else to look and read than just basic wait spinner and something like "Processing..."
 Q: Why only one quote at a time?
